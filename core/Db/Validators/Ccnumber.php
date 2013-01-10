@@ -1,4 +1,15 @@
 <?php
+ 	/*
+	*	DB_VALIDATORS version 1.0
+	*
+	*	Imagina - Plugin.
+	*
+	*
+	*	Copyright (c) 2012 Dolem Labs
+	*
+	*	Authors:	Paul Marclay (paul.eduardo.marclay@gmail.com)
+	*
+	*/
 
     class Validators_Ccnumber extends Validators_Primitive {
         public function __construct($type, $number) {
